@@ -99,5 +99,4 @@ const ReusableTable = () => {
     </TableContainer>
   );
 };
-
 export default ReusableTable;
